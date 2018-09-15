@@ -1,6 +1,6 @@
-# Personal Portfolio
+# Javascript Calculator
 
-[racode.io](https://racode.io) - racode.io
+A basic javascript calculator written in REACT
 
 ## Built With
 
